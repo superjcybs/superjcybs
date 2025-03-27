@@ -1,24 +1,8 @@
 ## Hi there 👋
-
-
-**superjcybs/superjcybs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 <h1 align="center">
   WELCOME 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  to KYEKYEKU-TECH
+  to SUPER 'J' CY-BUSINESS AND SERVICE <br> (Jerry Babatunde A.K.A. Jerry Kwophi Supernatural)
 </h1>
 
 <div align="center">
@@ -29,22 +13,20 @@ Here are some ideas to get you started:
   <a href="your-linkedin-url">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-url">
+  <a href="youtube.com/@superjcybs">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="your-twitter-url">
+  <a href="youtube.com/@tsbftv">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://twitter.com/superjcybs">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-<p align="center" style="color: yellow;">VIEWERS COUNT:</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{Kyekyeku}/count.svg" alt="Kyekyeku :: Visitor's Count" />
-</p>
-
 <section id="about" style="padding: 50px 20px; background-color: black;">
   <div align="center" style="max-width: 1000px; margin: 0 auto;">
-    <img src="https://i.postimg.cc/qRxjQ9sp/kye-enhanced.jpg" alt="Kyekyeku-Tech" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px;">
+    <img src="https://avatars.githubusercontent.com/u/84977775?v=4"  alt="Jerry Babatunde" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px;">
   </div>
   <h2 style="font-size: 36px; color: #333; text-align: center;">About Me</h2>
   <p style="font-size: 18px; color: #666; text-align: center; margin-top: 20px;">
@@ -53,24 +35,27 @@ Here are some ideas to get you started:
 </section>
 
 <p align="center">
-  <a href="https://wa.me/+233545454000?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Kyekyeku+Repo" target="_blank">
+  <a href="https://wa.me/+233247792110?text=Hello+Sir--+I+Need+Help.+I+came+across+your+account+via+github" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a aria-label="kyekyeku-tech" href="https://youtube.com/@codingmidset" target="_blank">
+  <a aria-label="superjcybs" href="https://youtube.com/@superjcybs" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UC-1I2UvMzF5DHaGK_c8iJcw" />
   </a>
 </p>
 
 <p align="center">
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
+  I am a Full Stack MERN Developer, with knowledge in Python, Java, ReactNative, C, SQL etc <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
 </p>
 
 ---
 
-### :telescope: What I Do:
+### :telescope:🔹 **What I do:**  
 - Working as a Software Engineer, contributing to both frontend and backend for building web applications.
 - Currently working on my own website.
 - Passionate about creating high-quality, user-friendly websites.
+- 🚀 Web Development (React, Node.js), Mobile App development, Standalone Desktop Applications
+- 💼 E-commerce & Business Solutions  
+- ⚡ Passionate about Tech and Innovation  
 
 ### :mailbox: How to Reach Me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
@@ -95,5 +80,5 @@ Here are some ideas to get you started:
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyekyeku-Tech&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superjcybs&layout=compact&theme=vision-friendly-dark)](https://github.com/superjcybs/github-readme-stats)
 - ⭐ Star this repo if you like our service!
