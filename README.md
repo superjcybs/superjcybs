@@ -1,11 +1,9 @@
 <h1 align="center">
-  WELCOME 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  to SUPER 'J' CY-BUSINESS AND SERVICE <br> (Jerry Babatunde A.K.A. Jerry Kwophi Supernatural)
+  WELCOME to SUPER 'J' CY-BUSINESS AND SERVICES <br> (Jerry Babatunde A.K.A. Jerry Kwophi Supernatural)
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://res.cloudinary.com/dgwdod9rd/image/upload/v1743109284/h-logo_large_ww_cfvzxh.png"/>
 </div>
 <div id="badges" align="center">
 <p>BUSINESS LINKS</p>
@@ -66,11 +64,7 @@
 ---
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyekyeku-Tech&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=superjcybs&theme=dark&border_radius=6.5&card_width=600)](https://git.io/streak-stats)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=superjcybs&theme=dark&border_radius=6.5&card_width=600" alt="GitHub Streak" /></a>
 
 ### :hammer_and_wrench: Languages and Tools:
 <div align="center">
