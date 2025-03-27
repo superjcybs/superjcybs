@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">
   WELCOME 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -65,8 +64,10 @@
 
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyekyeku-Tech&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=superjcybs)](https://git.io/streak-stats)
----
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=superjcybs&theme=dark&border_radius=6.5&card_width=600)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=superjcybs&theme=dark&border_radius=6.5&card_width=600" alt="GitHub Streak" /></a>
 
 ### :hammer_and_wrench: Languages and Tools:
 <div align="center">
