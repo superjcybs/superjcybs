@@ -65,27 +65,75 @@
 
 <hr>
 ### :mailbox:🚀 Some of my works:
+
 <div>
-<span><a href="https://superjcybs.com">SUPERJCYBS</a></span>
-<span><a href="https://tsbftv.superjcybs.com">TSBF TV</a></span>
-<span><a href="https://choptime.superjcybs.com">CHOP TIME</a></span>
-<span><a href="https://supamartghana.superjcybs.com">SUPAMART GHANA</a></span>
-<span><a href="https://tsfinservices.superjcybs.com">TS FINANCIAL SERVICES</a></span>
-<span><a href="https://supagym.superjcybs.com">SUPA GYM</a></span>
-<span><a href="https://superjcybs.com/blog">GET INFORMED BLOG</a></span>
-<span><a href="https://cbpti.superjcybs.com">LMS</a></span>
-<span><a href="https://supasocial.superjcybs.com">SUPA SOCIAL</a></span>
-<span><a href="https://supayoutube.superjcybs.com">SUPA YOUTUBE</a></span>
-<span><a href="https://supakyat.superjcybs.com">SUPA KYAT</a></span>
-<span><a href="https://estgyimfarms.superjcybs.com">ESTGYIM FARMS</a></span>
-<span><a href="https://dunamistravels.superjcybs.com">DUNAMIS TRAVELS</a></span>
-<span><a href="https://tstelcom.superjcybs.com">TS TELECOM</a></span>
-<span><a href="https://tscatering.superjcybs.com">TS CATERING</a></span>
-<span><a href="https://flashsolvefms.superjcybs.com">FLASH SOLVE FMS</a></span>
-  </div>
-
-
-
+<table style="width:100%; border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr style="background-color: #333; color: white;">
+      <th style="padding: 10px; border: 1px solid #ddd;">WEBSITE</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">DESCRIPTION</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">WEBSITE</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">DESCRIPTION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #f2f2f2;">
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://superjcybs.com" target="blank">SUPERJCYBS</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Business fronting</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://tsbftv.superjcybs.com" target="blank">TSBF TV</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Watch movies like netflix</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://choptime.superjcybs.com" target="blank">CHOP TIME</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 2, Col 2</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://supamartghana.superjcybs.com" target="blank">SUPAMART GHANA</a>/td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 2, Col 4</td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://tsfinservices.superjcybs.com" target="blank">TS FINANCIAL SERVICES</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 3, Col 2</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://supagym.superjcybs.com" target="blank">SUPA GYM</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 3, Col 4</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://superjcybs.com/blog" target="blank">GET INFORMED BLOG</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 4, Col 2</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://cbpti.superjcybs.com" target="blank">LMS</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 4, Col 4</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://supasocial.superjcybs.com" target="blank" target="blank">SUPA SOCIAL</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 4, Col 2</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://supayoutube.superjcybs.com" target="blank">SUPA YOUTUBE</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 4, Col 4</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://dunamistravels.superjcybs.com" target="blank">DUNAMIS TRAVELS</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 4, Col 2</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://dunamistravels.superjcybs.com" target="blank">DUNAMIS TRAVELS</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 4, Col 4</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://supakyat.superjcybs.com" target="blank">SUPA KYAT</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 4, Col 2</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://estgyimfarms.superjcybs.com" target="blank">ESTGYIM FARMS</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 4, Col 4</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://tstelcom.superjcybs.com" target="blank">TS TELECOM</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 4, Col 2</td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://tscatering.superjcybs.com" target="blank">TS CATERING</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 4, Col 4</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://flashsolvefms.superjcybs.com" target="blank">FLASH SOLVE FMS</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 4, Col 2</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">EMPTY</a></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Row 4, Col 4</td>
+    </tr>
+  </tbody>
+</table>
+ </div>
 <hr>
 
 ### :fire: My Stats:
