@@ -10,7 +10,7 @@
 <div id="badges" align="center">
 <p>BUSINESS LINKS</p>
   <a href="https://superjcybs.com">
-<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fsuperjcybs.com?style=for-the-badge&logo=website&logoColor=white">
+<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fsuperjcybs.com&style=for-the-badge&logoSize=auto">
   </a>
   <a href="https://www.linkedin.com/company/superjcybs1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
