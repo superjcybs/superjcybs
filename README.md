@@ -7,12 +7,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
 <div id="badges" align="center">
-  <a href="your-linkedin-url">
+<p>BUSINESS LINKS</p>
+  <a href="[your-linkedin-url](https://www.linkedin.com/company/superjcybs1)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="youtube.com/@superjcybs">
+  <a href="https://www.youtube.com/channel/UCnYL6e5pYht_mWKlEE7NTLw?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
   <a href="youtube.com/@tsbftv">
@@ -20,6 +20,9 @@
   </a>
   <a href="https://twitter.com/superjcybs">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://twitter.com/superjcybs">
+    <img src="https://img.shields.io/badge/Facebook?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 
@@ -56,8 +59,8 @@
 - 💼 E-commerce & Business Solutions  
 - ⚡ Passionate about Tech and Innovation  
 
-### :mailbox: How to Reach Me:
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/company/superjcybs1))
+### :mailbox: How to Reach Me Personally:
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url]([https://www.linkedin.com/company/superjcybs1](https://www.linkedin.com/in/jerry-kwophi-supernatural-81a26bb5)))
 [![whatsapp Badge](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+233247792110?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+github)
 
 ---
