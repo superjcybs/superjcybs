@@ -151,5 +151,4 @@
 </div>
 
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superjcybs&layout=compact&theme=vision-friendly-dark)](https://github.com/superjcybs/github-readme-stats)
 - ⭐ Star this repo if you like our service!
