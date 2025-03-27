@@ -3,8 +3,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dgwdod9rd/image/upload/v1743109284/h-logo_large_ww_cfvzxh.png" height="350px" width="auto"/>
+  <img src="https://res.cloudinary.com/dgwdod9rd/image/upload/v1743112929/super_qudckr.jpg" height="350px" width="auto"/>
 </div>
+
 <hr>
 <div id="badges" align="center">
 <p>BUSINESS LINKS</p>
@@ -152,3 +153,7 @@
 
 <hr>
 - ⭐ Star this repo if you like our service!
+<hr>
+<div align="center">
+  <img src="https://res.cloudinary.com/dgwdod9rd/image/upload/v1743109284/h-logo_large_ww_cfvzxh.png" height="350px" width="auto"/>
+</div>
