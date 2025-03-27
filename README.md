@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://res.cloudinary.com/dgwdod9rd/image/upload/v1743109284/h-logo_large_ww_cfvzxh.png" height="350px" width="auto"/>
 </div>
+---
 <div id="badges" align="center">
 <p>BUSINESS LINKS</p>
   <a href="https://superjcybs.com">
@@ -23,7 +24,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>  
 </div>
-
+---
   <h2 style="font-size: 36px; color: #333; text-align: center;">About Me</h2>
 <section id="about" style="padding: 50px 20px; background-color: black;">
   <div align="center" style="max-width: 1000px; margin: 0 auto;">
@@ -46,9 +47,9 @@
 <p align="center">
   I am a Full Stack MERN Developer, with knowledge in Python, Java, ReactNative, C, SQL etc <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
 </p>
-
+<p><a href="https://cv-jerry.superjcybs.com">Checkout my CV here</a></p>
 ---
-
+<hr>
 ### :telescope:🔹 **What I do:**  
 - 🚀 Web Development (React, Node.js), Mobile App development, Standalone Desktop Applications
 - 💼 E-commerce & Business Solutions  
@@ -63,6 +64,30 @@
 [![whatsapp Badge](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+233247792110?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+github)
 
 ---
+### :mailbox:🚀 Some of my works:
+<div>
+<span><a href="https://superjcybs.com">SUPERJCYBS</a></span>
+<span><a href="https://tsbftv.superjcybs.com">TSBF TV</a></span>
+<span><a href="https://choptime.superjcybs.com">CHOP TIME</a></span>
+<span><a href="https://supamartghana.superjcybs.com">SUPAMART GHANA</a></span>
+<span><a href="https://tsfinservices.superjcybs.com">TS FINANCIAL SERVICES</a></span>
+<span><a href="https://supagym.superjcybs.com">SUPA GYM</a></span>
+<span><a href="https://superjcybs.com/blog">GET INFORMED BLOG</a></span>
+<span><a href="https://cbpti.superjcybs.com">LMS</a></span>
+<span><a href="https://supasocial.superjcybs.com">SUPA SOCIAL</a></span>
+<span><a href="https://supayoutube.superjcybs.com">SUPA YOUTUBE</a></span>
+<span><a href="https://supakyat.superjcybs.com">SUPA KYAT</a></span>
+<span><a href="https://estgyimfarms.superjcybs.com">ESTGYIM FARMS</a></span>
+<span><a href="https://dunamistravels.superjcybs.com">DUNAMIS TRAVELS</a></span>
+<span><a href="https://tstelcom.superjcybs.com">TS TELECOM</a></span>
+<span><a href="https://tscatering.superjcybs.com">TS CATERING</a></span>
+<span><a href="https://flashsolvefms.superjcybs.com">FLASH SOLVE FMS</a></span>
+  </div>
+![image](https://github.com/user-attachments/assets/05e75458-db6b-4b14-9fc6-a7fc14b31500)
+
+
+
+<hr>
 
 ### :fire: My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=superjcybs&theme=dark&border_radius=6.5&card_width=600)](https://git.io/streak-stats)
