@@ -39,7 +39,7 @@
     <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a aria-label="superjcybs" href="https://youtube.com/@superjcybs" target="_blank">
-    <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UC-1I2UvMzF5DHaGK_c8iJcw" />
+    <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCnYL6e5pYht_mWKlEE7NTLw" />
   </a>
 </p>
 
@@ -58,13 +58,13 @@
 - ⚡ Passionate about Tech and Innovation  
 
 ### :mailbox: How to Reach Me:
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![whatsapp Badge](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+233545454000?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Kyekyeku+Repo)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/company/superjcybs1))
+[![whatsapp Badge](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+233247792110?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+github)
 
 ---
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kyekyeku-Tech&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=superjcybs&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
