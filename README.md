@@ -37,7 +37,7 @@
   <a href="https://wa.me/+233247792110?text=Hello+Sir--+I+Need+Help.+I+came+across+your+account+via+github" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a aria-label="superjcybs" href="https://youtube.com/@superjcybs" target="_blank">
+  <a aria-label="superjcybs" href="[https://youtube.com/@superjcybs](https://www.youtube.com/channel/UCnYL6e5pYht_mWKlEE7NTLw?sub_confirmation=1)" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCnYL6e5pYht_mWKlEE7NTLw" />
   </a>
 </p>
