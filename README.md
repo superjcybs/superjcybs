@@ -50,9 +50,10 @@
 ---
 
 ### :telescope:🔹 **What I do:**  
+- 🚀 Web Development (React, Node.js), Mobile App development, Standalone Desktop Applications
+- 💼 E-commerce & Business Solutions  
+- ⚡ Passionate about Tech and Innovation  
 - Working as a Software Engineer, contributing to both frontend and backend for building web applications.
-- Currently working on my own website.
-- Passionate about creating high-quality, user-friendly websites.
 - 🚀 Web Development (React, Node.js), Mobile App development, Standalone Desktop Applications
 - 💼 E-commerce & Business Solutions  
 - ⚡ Passionate about Tech and Innovation  
