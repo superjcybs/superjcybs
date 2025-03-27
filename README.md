@@ -9,7 +9,10 @@
 </div>
 <div id="badges" align="center">
 <p>BUSINESS LINKS</p>
-  <a href="[your-linkedin-url](https://www.linkedin.com/company/superjcybs1)">
+  <a href="https://superjcybs.com">
+    <img src="https://img.shields.io/website?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/company/superjcybs1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCnYL6e5pYht_mWKlEE7NTLw?sub_confirmation=1">
@@ -20,10 +23,7 @@
   </a>
   <a href="https://twitter.com/superjcybs">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://twitter.com/superjcybs">
-    <img src="https://img.shields.io/badge/Facebook?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook Badge"/>
-  </a>
+  </a>  
 </div>
 
 <section id="about" style="padding: 50px 20px; background-color: black;">
