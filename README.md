@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dgwdod9rd/image/upload/v1743109284/h-logo_large_ww_cfvzxh.png"/>
+  <img src="https://res.cloudinary.com/dgwdod9rd/image/upload/v1743109284/h-logo_large_ww_cfvzxh.png" height="350px" width="auto"/>
 </div>
 <div id="badges" align="center">
 <p>BUSINESS LINKS</p>
@@ -24,11 +24,11 @@
   </a>  
 </div>
 
+  <h2 style="font-size: 36px; color: #333; text-align: center;">About Me</h2>
 <section id="about" style="padding: 50px 20px; background-color: black;">
   <div align="center" style="max-width: 1000px; margin: 0 auto;">
     <img src="https://avatars.githubusercontent.com/u/84977775?v=4"  alt="Jerry Babatunde" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px;">
   </div>
-  <h2 style="font-size: 36px; color: #333; text-align: center;">About Me</h2>
   <p style="font-size: 18px; color: #666; text-align: center; margin-top: 20px;">
     My passion for software development originates from a desire to address real-world challenges and positively impact people's lives. I excel in collaborative settings where ideas are openly exchanged, and innovation is fostered.
   </p>
