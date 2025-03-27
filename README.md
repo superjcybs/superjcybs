@@ -86,7 +86,7 @@
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://choptime.superjcybs.com" target="blank">CHOP TIME</a></td>
       <td style="padding: 10px; border: 1px solid #ddd;">Row 2, Col 2</td>
-      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://supamartghana.superjcybs.com" target="blank">SUPAMART GHANA</a>/td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://supamartghana.superjcybs.com" target="blank">SUPAMART GHANA</a></td>
       <td style="padding: 10px; border: 1px solid #ddd;">Row 2, Col 4</td>
     </tr>
     <tr style="background-color: #f2f2f2;">
