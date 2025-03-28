@@ -42,8 +42,8 @@
 <p align="center"><a href="https://cv-jerry.superjcybs.com">CHECKOUT MY CV HERE</a></p>
 
 ### :mailbox: How to Reach Me Personally:
-<p align="center">
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-kwophi-supernatural-81a26bb5)
+<p align="center">
   <a href="https://wa.me/+233247792110?text=Hello+Sir--+I+Need+Help.+I+came+across+your+account+via+github" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
