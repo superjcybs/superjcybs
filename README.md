@@ -48,7 +48,7 @@
 <p align="center">
   I am a Full Stack MERN Developer, with knowledge in Python, Java, ReactNative, C, SQL etc <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
 </p>
-<p><a href="https://cv-jerry.superjcybs.com">Checkout my CV here</a></p>
+<p align="center"><a href="https://cv-jerry.superjcybs.com">Checkout my CV here</a></p>
 
 <hr>
 ### :telescope:🔹 **What I do:**  
