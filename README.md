@@ -37,6 +37,13 @@
 </section>
 
 <p align="center">
+  I am a Full Stack MERN Developer, with knowledge in Python, Java, ReactNative, C, SQL etc from Ghana.
+</p>
+<p align="center"><a href="https://cv-jerry.superjcybs.com">CHECKOUT MY CV HERE</a></p>
+
+### :mailbox: How to Reach Me Personally:
+<p align="center">
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-kwophi-supernatural-81a26bb5)
   <a href="https://wa.me/+233247792110?text=Hello+Sir--+I+Need+Help.+I+came+across+your+account+via+github" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
@@ -44,12 +51,6 @@
     <img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCnYL6e5pYht_mWKlEE7NTLw" />
   </a>
 </p>
-
-<p align="center">
-  I am a Full Stack MERN Developer, with knowledge in Python, Java, ReactNative, C, SQL etc <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
-</p>
-<p align="center"><a href="https://cv-jerry.superjcybs.com">Checkout my CV here</a></p>
-
 <hr>
 ### :telescope:🔹 **What I do:**  
 - 🚀 Web Development (React, Node.js), Mobile App development, Standalone Desktop Applications
@@ -59,11 +60,6 @@
 - 🚀 Web Development (React, Node.js), Mobile App development, Standalone Desktop Applications
 - 💼 E-commerce & Business Solutions  
 - ⚡ Passionate about Tech and Innovation  
-
-### :mailbox: How to Reach Me Personally:
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url]([https://www.linkedin.com/company/superjcybs1](https://www.linkedin.com/in/jerry-kwophi-supernatural-81a26bb5)))
-[![whatsapp Badge](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+233247792110?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+github)
-
 <hr>
 ### :mailbox:🚀 Some of my works:
 
