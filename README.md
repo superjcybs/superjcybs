@@ -55,13 +55,15 @@
 </p>
 <hr>
 ### :telescope:🔹 **What I do:**  
-- 🚀 Web Development (React, Node.js), Mobile App development, Standalone Desktop Applications
-- 💼 E-commerce & Business Solutions  
-- ⚡ Passionate about Tech and Innovation  
-- Working as a Software Engineer, contributing to both frontend and backend for building web applications.
-- 🚀 Web Development (React, Node.js), Mobile App development, Standalone Desktop Applications
-- 💼 E-commerce & Business Solutions  
-- ⚡ Passionate about Tech and Innovation  
+<ul>
+  <li>🚀 Web Development (React, Node.js), Mobile App development, Standalone Desktop Applications</li>
+  <li>💼 E-commerce & Business Solutions  </li>
+  <li>⚡ Graphics Designing  </li>
+  <li>Web Designing</li>
+  <li>Admininstration Options</li>
+  <li>Receptionist</li>
+  <li>Customer Service Representative</li>
+</ul>
 <hr>
 ### :mailbox:🚀 Some of my works:
 
